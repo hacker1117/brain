@@ -1,3 +1,8 @@
+---
+type: note
+title: Integration Roadmap
+---
+
 # Integration Roadmap
 
 Henry Lee 的 Brain Integration 路线图。记录所有计划接入的数据源和方向，按优先级排序。

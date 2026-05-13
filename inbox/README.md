@@ -1,3 +1,8 @@
+---
+type: note
+title: inbox/ — Unprocessed Notes
+---
+
 # inbox/ — Unprocessed Notes
 
 ## What goes here

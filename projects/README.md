@@ -1,3 +1,8 @@
+---
+type: project
+title: projects/ — Active Projects & Work
+---
+
 # projects/ — Active Projects & Work
 
 ## What goes here

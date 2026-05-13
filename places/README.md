@@ -1,3 +1,8 @@
+---
+type: note
+title: places/ — Locations
+---
+
 # places/ — Locations
 
 ## What goes here

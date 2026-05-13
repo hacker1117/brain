@@ -1,3 +1,8 @@
+---
+type: note
+title: ideas/ — Raw Ideas
+---
+
 # ideas/ — Raw Ideas
 
 ## What goes here

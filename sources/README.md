@@ -1,3 +1,8 @@
+---
+type: note
+title: sources/ — Raw Source Material
+---
+
 # sources/ — Raw Source Material
 
 ## What goes here

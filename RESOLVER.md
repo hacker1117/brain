@@ -1,3 +1,8 @@
+---
+type: note
+title: Brain Resolver — Decision Tree for Filing Pages
+---
+
 # Brain Resolver — Decision Tree for Filing Pages
 
 Walk this tree before creating any new page. The answer is always unambiguous.

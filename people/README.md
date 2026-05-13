@@ -1,3 +1,8 @@
+---
+type: person
+title: people/ — Person Pages
+---
+
 # people/ — Person Pages
 
 ## What goes here
@@ -32,7 +37,8 @@ One paragraph: who this person is, their role, and why they matter to us.
 - [[companies/...]]
 - [[concepts/...]]
 
----
+<!-- timeline -->
+
 ## Timeline
 - YYYY-MM-DD — [Source] — What happened
 ```

@@ -1,3 +1,8 @@
+---
+type: note
+title: 'concepts/ — Concepts, Theories & Frameworks'
+---
+
 # concepts/ — Concepts, Theories & Frameworks
 
 ## What goes here
@@ -28,7 +33,8 @@ One paragraph: what this concept is and why it matters.
 - [[concepts/...]]
 - [[people/...]]
 
----
+<!-- timeline -->
+
 ## Timeline
 - YYYY-MM-DD — [Source] — What happened
 ```

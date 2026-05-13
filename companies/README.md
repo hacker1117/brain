@@ -1,3 +1,8 @@
+---
+type: company
+title: companies/ — Company & Organization Pages
+---
+
 # companies/ — Company & Organization Pages
 
 ## What goes here
@@ -31,7 +36,8 @@ One paragraph: what the company does, its position, and why it matters.
 - [[people/...]]
 - [[concepts/...]]
 
----
+<!-- timeline -->
+
 ## Timeline
 - YYYY-MM-DD — [Source] — What happened
 ```
