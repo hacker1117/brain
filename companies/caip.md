@@ -1,0 +1,15 @@
+---
+type: company
+title: CAIP
+tags:
+  - company
+  - conversation-ingest
+---
+
+# CAIP
+
+## Facts
+
+- Mentioned in [[meetings/2026-04-29-caip-内饰板研发学习]]: mentioned in CAIP 内饰板研发学习.
+
+[Source: Conversation Ingest Pipeline, 2026-04-29]

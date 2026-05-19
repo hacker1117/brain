@@ -1,0 +1,65 @@
+---
+type: company
+title: 杭州富阳李维斯智能科技工作室（个体工商户）
+date: '2026-05-14T00:00:00.000Z'
+tags:
+  - bank-account
+  - business-license
+  - company
+  - livis
+---
+
+# 杭州富阳李维斯智能科技工作室（个体工商户）
+
+## 营业执照信息
+
+- 统一社会信用代码：92330183MAKC3B7N3K
+- 名称：杭州富阳李维斯智能科技工作室（个体工商户）
+- 类型：个体工商户
+- 经营者：[[people/henry-lee|李恒逸]]
+- 组成形式：个人经营
+- 注册日期：2026年04月27日
+- 经营场所：浙江省杭州市富阳区银湖街道上林南路22-1号2层263室
+- 登记机关：杭州市富阳区市场监督管理局
+- 发照日期：2026年04月27日
+- 国家企业信用信息公示系统网址：http://www.gsxt.gov.cn
+- 监制机关：国家市场监督管理总局监制
+
+[Source: User, Telegram, 2026-05-18, 营业执照 PDF OCR]
+
+## 经营范围
+
+一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人工智能基础软件开发；人工智能应用软件开发；人工智能公共服务平台技术咨询服务；互联网销售（除销售需要许可的商品）；人工智能行业应用系统集成服务；软件开发；信息系统集成服务；电子产品销售；办公设备销售；软件销售；网络设备销售；计算机软硬件及辅助设备零售；市场营销策划；科技中介服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。
+
+[Source: User, Telegram, 2026-05-18, 营业执照 PDF OCR]
+
+## 银行账户信息
+
+- 账户名称：杭州富阳李维斯智能科技工作室（个体工商户）
+- 账户号码：33050161748000001808
+- 开户银行：中国建设银行股份有限公司杭州太炎支行
+- 法定代表人（单位负责人）：[[people/henry-lee|李恒逸]]
+- 基本存款账户编号：J9033670113601
+- 开户/材料日期：2026年05月15日
+
+[Source: User, Telegram, 2026-05-15, 银行账户信息图片 OCR]
+
+## 税务与征收方式
+
+- 该主体是在中国注册的核定征收个体户。
+- 在特定每月收入额度之下不用交税。
+- 目前每月额度大约是 8 万元左右。
+
+[Source: User, Telegram, 2026-05-14]
+
+## 附件
+
+- 营业执照 PDF：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/business-license-2026-05-14.pdf`
+- 营业执照 PDF（本次上传）：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/business-license-2026-05-18.pdf`
+- 银行账户信息图片：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/basic-account-info-2026-05-15.jpg`
+
+## Source
+
+- [Source: User, Telegram, 2026-05-14, 营业执照 PDF OCR]
+- [Source: User, Telegram, 2026-05-15, 银行账户信息图片 OCR]
+- [Source: User, Telegram, 2026-05-18, 营业执照 PDF OCR]
