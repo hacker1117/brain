@@ -114,3 +114,20 @@ tags:
 - **2026-05-19** | Referenced in [[contracts/livis-gwc-training-service-contract-20260517|李维斯-GWC-培训服务合同-20260517]]
 - **2026-05-19** | Referenced in [[finance/invoices/gwc-6000-training-fee-20260518|GWC 6000元培训费发票-20260518]]
 - **2026-05-19** | Merged useful information from `entities/livis-studio` and `entities/lihengyi-studio-business-info` into this canonical company page. [Source: User, Telegram group topic 180, 2026-05-19]
+- **2026-05-19** | Referenced in [李维斯-GWC-培训服务合同-20260517](../contracts/livis-gwc-training-service-contract-20260517.md)
+- **2026-05-19** | Referenced in [李维斯-GWC-培训服务合同-20260517](../contracts/livis-gwc-training-service-contract-20260517.md)
+- **2026-05-19** | Referenced in [李维斯第一个培训项目合同——GWC里程碑](../originals/first-training-contract-gwc-milestone.md)
+- **2026-05-19** | Referenced in [516沙龙：与魔方咨询温兴蕾的首次会面及分享规划](../wiki/personal/reflections/2026-04-25-516-salon-planning-wen-xinglai-a719b3.md)
+- **2026-05-19** | Referenced in [516沙龙：与魔方咨询温兴蕾的首次会面及分享规划](../wiki/personal/reflections/2026-04-25-516-salon-planning-wen-xinglai-a719b3.md)
+- **2026-05-19** | Referenced in [2026 05 14 Mofang 516 Salon Dual Goals 1a7aea](../wiki/personal/reflections/2026-05-14-mofang-516-salon-dual-goals-1a7aea.md)
+- **2026-05-19** | Referenced in [2026 05 14 Channel Partner As Audience For First Collaboration 1a7aea](../wiki/originals/ideas/2026-05-14-channel-partner-as-audience-for-first-collaboration-1a7aea.md)
+- **2026-05-19** | Referenced in [收费不是为了挣钱——付费门槛作为意向过滤器](../wiki/originals/ideas/2026-04-25-paid-barrier-as-audience-filter-a719b3.md)
+- **2026-05-19** | Referenced in [李恒逸 / Henry Lee](../people/henry-lee.md)
+- **2026-05-19** | Referenced in [李恒逸 / Henry Lee](../people/henry-lee.md)
+- **2026-05-19** | Referenced in [Entity Disambiguation Guidance 2026 05 19](../concepts/entity-disambiguation-guidance-2026-05-19.md)
+- **2026-05-19** | Referenced in [GWC 6000元培训费发票-20260518](../finance/invoices/gwc-6000-training-fee-20260518.md)
+- **2026-05-19** | Referenced in [Livis Studio](../entities/livis-studio.md)
+- **2026-05-19** | Referenced in [Livis Studio](../entities/livis-studio.md)
+- **2026-05-19** | Referenced in [杭州富阳李维斯智能科技工作室 — 工商信息](../entities/lihengyi-studio-business-info.md)
+- **2026-05-19** | Referenced in [杭州富阳李维斯智能科技工作室 — 工商信息](../entities/lihengyi-studio-business-info.md)
+- **2026-05-19** | Referenced in [固丝德夫沃夫钢绳(苏州)有限公司（GWC）](../entities/companies/gwc-suzhou.md)

@@ -18,3 +18,4 @@ tags:
 
 - **2026-05-19** | Referenced in [严老师会议](../meetings/2026-04-27-严老师会议.md)
 - **2026-05-19** | Referenced in [516沙龙分享沟通](../meetings/2026-04-25-516沙龙分享沟通.md)
+- **2026-05-19** | Referenced in [固丝德夫沃夫钢绳(苏州)有限公司（GWC）](../entities/companies/gwc-suzhou.md)

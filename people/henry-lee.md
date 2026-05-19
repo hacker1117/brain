@@ -52,3 +52,4 @@ tags:
 - **2026-05-19** | Referenced in [杭州富阳李维斯智能科技工作室（个体工商户）](../companies/hangzhou-fuyang-livis-intelligent-technology-studio.md)
 - **2026-05-19** | Referenced in [杭州富阳李维斯智能科技工作室 — 工商信息](../entities/lihengyi-studio-business-info.md)
 - **2026-05-19** | Referenced in [固丝德夫沃夫钢绳(苏州)有限公司（GWC）](../entities/companies/gwc-suzhou.md)
+- **2026-05-19** | Referenced in [GBrain duplicate entity pages merge plan execution approval](../originals/2026-05-19-gbrain-duplicate-entity-merge-approval.md)
