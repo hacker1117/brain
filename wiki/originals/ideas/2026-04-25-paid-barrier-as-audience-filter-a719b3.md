@@ -56,7 +56,7 @@ tags:
 ## 应用场景
 
 - [[companies/魔方咨询|魔方咨询]] 的月度HR沙龙定价决策
-- [[entities/livis-studio|李维斯智能科技工作室]] 未来自办分享活动的定价策略
+- [[companies/hangzhou-fuyang-livis-intelligent-technology-studio|李维斯智能科技工作室]] 未来自办分享活动的定价策略
 - 企业内部AI培训（无法收费时，可以用其他沉没成本替代：提前作业、签到承诺、公开输出）
 
 ---

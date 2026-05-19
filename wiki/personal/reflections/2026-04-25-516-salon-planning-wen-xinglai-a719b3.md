@@ -71,7 +71,7 @@ tags:
 Helen 的评价：
 > "我也觉得你俩是非常的互补，可以一起做很多事情"
 
-魔方咨询当前的交付形式：PPT、Excel表格、制度说明书；AI 介入后可以改造交付方式，与 [[entities/livis-studio|李维斯智能科技工作室]] 的"工具定制+深度陪跑"业务形成互补。
+魔方咨询当前的交付形式：PPT、Excel表格、制度说明书；AI 介入后可以改造交付方式，与 [[companies/hangzhou-fuyang-livis-intelligent-technology-studio|李维斯智能科技工作室]] 的"工具定制+深度陪跑"业务形成互补。
 
 ---
 
@@ -92,4 +92,4 @@ Helen 的评价：
 - 会议记录：[[meetings/2026-04-25-516沙龙分享沟通]]
 - 合作方：[[companies/魔方咨询]]
 - 牵线人：[[entities/people/yan-jianqin-helen]]
-- 我的公司：[[entities/livis-studio]]
+- 我的公司：[[companies/hangzhou-fuyang-livis-intelligent-technology-studio]]

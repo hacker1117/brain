@@ -70,5 +70,5 @@ tags:
 
 - 牵线人：[[entities/people/yan-jianqin-helen|严建琴（Helen）]]
 - 本次分享的内容框架详见：[[wiki/personal/reflections/2026-04-25-516-salon-planning-wen-xinglai-a719b3]]
-- Henry 所在工作室：[[entities/livis-studio|李维斯智能科技工作室]]
+- Henry 所在工作室：[[companies/hangzhou-fuyang-livis-intelligent-technology-studio|李维斯智能科技工作室]]
 - 会议来源：OpenClaw session `温老师HR培训项目`，2026-05-14

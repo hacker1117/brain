@@ -2,14 +2,37 @@
 type: company
 title: 杭州富阳李维斯智能科技工作室（个体工商户）
 date: '2026-05-14T00:00:00.000Z'
+aliases:
+  - 李维斯智能科技工作室
+  - 杭州富阳李维斯智能科技工作室
+  - 杭州富阳李维斯智能科技工作室（个体工商户）
+  - Livis Studio
+  - livis-studio
+  - lihengyi-studio-business-info
+canonical: true
+merged_from:
+  - entities/livis-studio
+  - entities/lihengyi-studio-business-info
 tags:
   - bank-account
   - business-license
   - company
   - livis
+  - OPC
+  - studio
+  - 个体工商户
 ---
 
 # 杭州富阳李维斯智能科技工作室（个体工商户）
+
+## Entity identity
+
+- This is the canonical company page for 李维斯智能科技工作室 / Livis Studio / 杭州富阳李维斯智能科技工作室（个体工商户）.
+- Henry confirmed that `lihengyi-studio-business-info` and `livis-studio` are the same company. Duplicate pages contain useful information and should be merged rather than simply deleted. [Source: User, Telegram group topic 180, 2026-05-19]
+
+## 简介
+
+杭州富阳李维斯智能科技工作室（个体工商户）是 [[people/henry-lee|李恒逸（Henry Lee）]] 的一人公司，主营中小企业 AI 咨询、培训及深度陪跑。[Source: User, Telegram, 2026-05-15]
 
 ## 营业执照信息
 
@@ -33,11 +56,19 @@ tags:
 
 [Source: User, Telegram, 2026-05-18, 营业执照 PDF OCR]
 
+## 业务方向
+
+- 中小企业 AI 咨询
+- AI 培训（工业企业、HR 机构）
+- AI 深度陪跑
+
+[Source: User, Telegram, 2026-05-15]
+
 ## 银行账户信息
 
 - 账户名称：杭州富阳李维斯智能科技工作室（个体工商户）
 - 账户号码：33050161748000001808
-- 开户银行：中国建设银行股份有限公司杭州太炎支行
+- 开户银行：中国建设银行股份有限公司杭州太炎支行 / 中国建设银行股份有限公司 杭州太炎支行
 - 法定代表人（单位负责人）：[[people/henry-lee|李恒逸]]
 - 基本存款账户编号：J9033670113601
 - 开户/材料日期：2026年05月15日
@@ -52,14 +83,34 @@ tags:
 
 [Source: User, Telegram, 2026-05-14]
 
+## 飞书账号关联
+
+- 飞书账号显示用户名「郭小靖」= 李恒逸本人小号。
+- 飞书里出现「郭小靖」的会议/文档，所有者是李恒逸。
+
+[Source: User, Telegram/OpenClaw Transcript, 2026-05-14]
+
 ## 附件
 
 - 营业执照 PDF：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/business-license-2026-05-14.pdf`
 - 营业执照 PDF（本次上传）：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/business-license-2026-05-18.pdf`
 - 银行账户信息图片：`~/brain/assets/companies/hangzhou-fuyang-livis-intelligent-technology-studio/basic-account-info-2026-05-15.jpg`
 
+## Related
+
+- [[people/henry-lee]]
+- [[contracts/livis-gwc-training-service-contract-20260517]]
+- [[finance/invoices/gwc-6000-training-fee-20260518]]
+
 ## Source
 
 - [Source: User, Telegram, 2026-05-14, 营业执照 PDF OCR]
+- [Source: User, Telegram, 2026-05-14, 税务与飞书账号信息]
 - [Source: User, Telegram, 2026-05-15, 银行账户信息图片 OCR]
 - [Source: User, Telegram, 2026-05-18, 营业执照 PDF OCR]
+
+## Timeline
+
+- **2026-05-19** | Referenced in [[contracts/livis-gwc-training-service-contract-20260517|李维斯-GWC-培训服务合同-20260517]]
+- **2026-05-19** | Referenced in [[finance/invoices/gwc-6000-training-fee-20260518|GWC 6000元培训费发票-20260518]]
+- **2026-05-19** | Merged useful information from `entities/livis-studio` and `entities/lihengyi-studio-business-info` into this canonical company page. [Source: User, Telegram group topic 180, 2026-05-19]

@@ -15,7 +15,7 @@ tags:
 
 # 概念地图先于效果演示：AI培训「先建认知、再给工具」的教学论原则
 
-> 来源：2026-05-14 [[entities/gwc|GWC]] 培训课程设计讨论；触发洞察的原始表述来自 Henry
+> 来源：2026-05-14 [[entities/companies/gwc-suzhou|GWC]] 培训课程设计讨论；触发洞察的原始表述来自 Henry
 
 ---
 
@@ -40,7 +40,7 @@ Henry 的原话：
 | 容易被幻觉、错误答案击穿信心 | 不知道 AI 的局限边界，一次失败就否定全部 |
 | 把「工具」当「魔法」 | 期望管理失准，后续使用体验落差大 |
 
-这在 [[entities/gwc]] 的培训场景尤其突出：受众学历以初中高中为主、最好大专，电脑能力较弱，没有任何 AI 背景知识。如果第一印象是「这东西很厉害但我不懂」，会产生**依赖心理**（一切都要问专家）而非**自主使用**的能力。
+这在 [[entities/companies/gwc-suzhou]] 的培训场景尤其突出：受众学历以初中高中为主、最好大专，电脑能力较弱，没有任何 AI 背景知识。如果第一印象是「这东西很厉害但我不懂」，会产生**依赖心理**（一切都要问专家）而非**自主使用**的能力。
 
 ---
 
@@ -93,6 +93,6 @@ Henry 使用的 PPT（《读懂AI，用好AI》第一课）的核心目标正是
 
 ## 关联
 
-- 应用场景：[[entities/gwc]] 2026-05-17 培训（详见 [[wiki/personal/reflections/2026-05-14-gwc-training-course-structure-planning-878953]]）
+- 应用场景：[[entities/companies/gwc-suzhou]] 2026-05-17 培训（详见 [[wiki/personal/reflections/2026-05-14-gwc-training-course-structure-planning-878953]]）
 - 互补原则：[[wiki/originals/ideas/2026-05-11-ai-training-design-for-low-digitalization-factories-044aed]]
 - 合作讲师（HR案例部分）：[[entities/people/yan-jianqin-helen]]

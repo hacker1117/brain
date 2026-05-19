@@ -1,39 +1,19 @@
 ---
-type: entity
-title: 杭州富阳李维斯智能科技工作室
-date: '2026-05-15T00:00:00.000Z'
-tags:
-  - company
-  - entity
-  - OPC
-  - studio
-  - 个体工商户
+type: redirect
+title: Livis Studio
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: companies/hangzhou-fuyang-livis-intelligent-technology-studio
 ---
 
-# 杭州富阳李维斯智能科技工作室（个体工商户）
+# Livis Studio
 
-李恒逸（Henry Lee）的一人公司，主营中小企业 AI 咨询、培训及深度陪跑。
+This page was merged into [[companies/hangzhou-fuyang-livis-intelligent-technology-studio]].
 
-## 基本信息
+## Merge note
 
-- **法定代表人（负责人）：** 李恒逸
-- **性质：** 个体工商户（OPC）
-- **注册地：** 杭州富阳
+- This slug refers to the same company/entity as 杭州富阳李维斯智能科技工作室（个体工商户）.
+- Useful information from this page was merged into [[companies/hangzhou-fuyang-livis-intelligent-technology-studio]], including the one-person company positioning and business directions.
+- Kept as redirect/tombstone so historical references and search aliases do not break.
 
-## 银行账户
-
-### 基本存款账户（建设银行）
-
-- **账户名称：** 杭州富阳李维斯智能科技工作室（个体工商户）
-- **账户号码：** 33050161748000001808
-- **开户银行：** 中国建设银行股份有限公司 杭州太炎支行
-- **基本存款账户编号：** J9033670113601
-- **开户日期：** 2026-05-15
-
-## 业务方向
-
-- 中小企业 AI 咨询
-- AI 培训（工业企业、HR 机构）
-- AI 深度陪跑
-
-[Source: User, Telegram, 2026-05-15]
+[Source: User, Telegram group topic 180, 2026-05-19]

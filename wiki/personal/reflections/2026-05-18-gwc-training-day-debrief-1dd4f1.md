@@ -16,9 +16,9 @@ tags:
 
 # GWC培训复盘：实操优先策略的验证，以及Trae Solo工具选型的教训
 
-> 来源：2026-05-18 OpenClaw Telegram session（GWC培训项目 Topic #86）  
-> 客户：[[entities/gwc|固丝德夫沃夫钢绳(苏州)有限公司]]  
-> 培训日期：2026-05-17（全天 9:00–17:00）  
+> 来源：2026-05-18 OpenClaw Telegram session（GWC培训项目 Topic #86）
+> 客户：[[entities/companies/gwc-suzhou|固丝德夫沃夫钢绳(苏州)有限公司]]
+> 培训日期：2026-05-17（全天 9:00–17:00）
 > 本次对话同步了6000元发票存档（发票号：26332000004121430031，开票方：杭州富阳李维斯智能科技工作室）
 
 ---
@@ -95,7 +95,7 @@ Henry 明确提炼的经验：
 
 ## 关联
 
-- 客户：[[entities/gwc]]
+- 客户：[[entities/companies/gwc-suzhou]]
 - 前置规划：[[wiki/personal/reflections/2026-05-14-gwc-training-course-structure-planning-878953]]
 - 设计原则来源：[[wiki/originals/ideas/2026-05-11-ai-training-design-for-low-digitalization-factories-044aed]]
 - 新提炼模型：[[wiki/originals/ideas/2026-05-18-training-theory-vs-handson-ratio-calibration-1dd4f1]]

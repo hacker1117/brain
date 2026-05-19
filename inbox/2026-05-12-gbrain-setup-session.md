@@ -1,3 +1,9 @@
+---
+type: note
+title: 2026-05-12 Soul Audit & GBrain Setup Session
+date: '2026-05-12'
+---
+
 # 2026-05-12 Soul Audit & GBrain Setup Session
 
 ## Summary
@@ -75,7 +81,7 @@
 - [ ] 从今日对话提炼结构化 brain pages（Henry 要求）
 - [ ] Integration 逐个实现
 
----
+<!-- timeline -->
 
 ## Timeline
 - 2026-05-12 — 完成 Soul Audit、GBrain 升级、GitHub 同步、Supabase 迁移、Cron 配置

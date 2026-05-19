@@ -1,33 +1,19 @@
 ---
-type: entity
-title: GWC（客户）
-date: '2026-05-15T00:00:00.000Z'
-tags:
-  - HR
-  - 企业
-  - 培训
-  - 客户
+type: redirect
+title: GWC
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: entities/companies/gwc-suzhou
 ---
 
 # GWC
 
-## 基本信息
+This page was merged into [[entities/companies/gwc-suzhou]].
 
-- **类型：** 企业客户
-- **所在地：** 江苏省苏州市吴中区繁丰路666号
+## Merge note
 
-## 与李维斯的合作
+- This slug refers to the same company/entity as GWC / 固丝德夫沃夫钢绳(苏州)有限公司.
+- Useful information from this page was merged into [[entities/companies/gwc-suzhou]], including address, contract status, first formal training contract context, and Helen/严建琴 as related trainer.
+- Kept as redirect/tombstone so historical references and search aliases do not break.
 
-- **培训项目：** 2026-05-17 一整天 AI 培训
-  - 上午：两场培训（第一场 Henry 的 PPT 内容 + 第二场 HR 方向 AI 应用）
-  - 下午：两个案例演示 + 实操 + 答疑
-  - 时间：09:00-17:00，午休 12:00-13:00
-- **合同状态：** 已签署
-  - 文件名：李维斯-GWC-培训服务合同-20260517
-  - 这是[[entities/companies/livis|李维斯智能科技工作室]]的第一个正式培训项目合同
-
-## 关联人
-
-- [[entities/people/yan-jianqin-helen|严建琴（Helen）]]：联合培训讲师，负责 HR 方向 AI 应用
-
-[Source: User, Telegram/OpenClaw Transcript, 2026-05-15]
+[Source: User, Telegram group topic 180, 2026-05-19]

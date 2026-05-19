@@ -15,7 +15,7 @@ tags:
 # 培训理论与实操比例的受众校准模型：不是固定配比，而是三维度动态决策
 
 > 来源：2026-05-18 GWC培训复盘，Henry 在全天实战后提炼的经验判断。  
-> 背景：[[wiki/personal/reflections/2026-05-18-gwc-training-day-debrief-1dd4f1|GWC培训日复盘]] / 客户：[[entities/gwc]]
+> 背景：[[wiki/personal/reflections/2026-05-18-gwc-training-day-debrief-1dd4f1|GWC培训日复盘]] / 客户：[[entities/companies/gwc-suzhou]]
 
 ---
 

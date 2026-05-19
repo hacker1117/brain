@@ -1,22 +1,19 @@
 ---
-type: entity
+type: redirect
 title: GetSeat
-date: '2026-05-14T00:00:00.000Z'
-tags:
-  - audio
-  - company
-  - integration
-  - product
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: entities/getseed
 ---
 
-GetSeat 是 Henry 当前考虑接入 G-Brain 的录音与总结数据来源之一。
+# GetSeat
 
-## Mentions
+GetSeat 是 GetSeed 的误写。请使用 [[entities/getseed]]。
 
-- 2026-05-14：Henry 想把 GetSeat 的录音以及总结接入 G-Brain。
+## Merge note
 
-## Henry's exact words
+- Henry confirmed that `getseat` and `getseed` are the same thing, and `getseat` was a typo.
+- Useful information and the original typo evidence were merged into [[entities/getseed]].
+- Kept as redirect/tombstone so historical references and typo searches do not break.
 
-> 我今天想继续昨天没做完的事情，一个是把飞书的会议记录和 GetSeat 的录音以及总结能接入到 G-Brain 里面，另外一个就是基于那些会议记录里面记录的一些和我现在在做的项目有关的细节来展开调研和具体完成里面的待办。
-
-[Source: User, Telegram, 2026-05-14]
+[Source: User, Telegram group topic 180, 2026-05-19]

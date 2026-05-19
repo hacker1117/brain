@@ -1,27 +1,19 @@
 ---
-type: entity
-title: GWC（培训客户）
-date: '2026-05-15T00:00:00.000Z'
-tags:
-  - AI培训
-  - HR
-  - 培训
-  - 客户
+type: redirect
+title: GWC
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: entities/companies/gwc-suzhou
 ---
 
 # GWC
 
-AI 培训客户，主要对接场景为 HR 方向 AI 应用。
+This page was merged into [[entities/companies/gwc-suzhou]].
 
-## 已知信息
+## Merge note
 
-- 培训日期：2026-05-17（全天）
-- 上午 9:00–12:00：第一场（Henry 的 PPT 内容）+ 第二场（AI 在 HR 方向的运用）
-- 午休：12:00–13:00
-- 下午 13:00–17:00：两个案例演示（集中）+ 实操 + 答疑
+- This slug refers to the same company/entity as GWC / 固丝德夫沃夫钢绳(苏州)有限公司.
+- Useful information from this page was merged into [[entities/companies/gwc-suzhou]], including the 2026-05-17 training schedule and participant preparation requirement.
+- Kept as redirect/tombstone so historical references and search aliases do not break.
 
-## 备注
-
-Henry 要求参会人员提前准备各自业务的数据表格和演示文件。
-
-[Source: User, Telegram/OpenClaw Transcript, 2026-05-15]
+[Source: User, Telegram group topic 180, 2026-05-19]

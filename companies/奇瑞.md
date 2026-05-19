@@ -13,3 +13,7 @@ tags:
 - Mentioned in [[meetings/2026-04-29-caip-内饰板研发学习]]: mentioned in CAIP 内饰板研发学习.
 
 [Source: Conversation Ingest Pipeline, 2026-04-29]
+
+## Timeline
+
+- **2026-05-19** | Referenced in [CAIP 内饰板研发学习](../meetings/2026-04-29-caip-内饰板研发学习.md)

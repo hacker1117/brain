@@ -1,21 +1,19 @@
 ---
-type: company
-title: 固丝德夫沃夫钢绳(苏州)有限公司
-date: '2026-05-14T00:00:00.000Z'
-tags:
-  - client
-  - company
-  - elevator-wire-rope
-  - manufacturing
-  - training
+type: redirect
+title: Gustav Wolf Steel Rope Suzhou
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: entities/companies/gwc-suzhou
 ---
 
-## Facts
+# Gustav Wolf Steel Rope Suzhou
 
-- 公司名称：固丝德夫沃夫钢绳(苏州)有限公司。[Source: User, Telegram, 2026-05-14]
-- 客户性质：外企公司，主要生产电梯钢绳。[Source: User, Telegram, 2026-05-14]
-- 与 Henry 的关系：AI 培训项目客户，培训主要对象是公司内部运营人员。[Source: User, Telegram, 2026-05-14]
+This page was merged into [[entities/companies/gwc-suzhou]].
 
-## Related Project
+## Merge note
 
-- [[projects/gwc-training-project]]
+- This slug refers to the same company/entity as GWC / 固丝德夫沃夫钢绳(苏州)有限公司.
+- Useful information from this page was merged into [[entities/companies/gwc-suzhou]].
+- Kept as redirect/tombstone so historical references and search aliases do not break.
+
+[Source: User, Telegram group topic 180, 2026-05-19]

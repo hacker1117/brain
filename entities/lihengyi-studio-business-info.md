@@ -1,36 +1,19 @@
 ---
-type: entity
+type: redirect
 title: 杭州富阳李维斯智能科技工作室 — 工商信息
-date: '2026-05-14T00:00:00.000Z'
-tags:
-  - business
-  - entity
-  - henry
-  - studio
+date: '2026-05-19T00:00:00.000Z'
+status: merged
+canonical: companies/hangzhou-fuyang-livis-intelligent-technology-studio
 ---
 
 # 杭州富阳李维斯智能科技工作室 工商信息
 
-## 基本信息
+This page was merged into [[companies/hangzhou-fuyang-livis-intelligent-technology-studio]].
 
-- **全名**：杭州富阳李维斯智能科技工作室
-- **类型**：个体工商户（OPC / 一人公司）
-- **税务模式**：核定征收
-  - 特定月收入以下免税
-  - 当前月度免税额度：约 8 万元人民币
-- **注册地**：杭州富阳（具体地址见营业执照）
+## Merge note
 
-## 经营业务
+- This slug refers to the same company/entity as Livis Studio / 杭州富阳李维斯智能科技工作室（个体工商户）.
+- Useful information from this page was merged into [[companies/hangzhou-fuyang-livis-intelligent-technology-studio]], including tax mode and Feishu account association.
+- Kept as redirect/tombstone so historical references and search aliases do not break.
 
-见营业执照经营范围（已上传到 GBrain）
-
-## 飞书账号关联
-
-- 飞书账号显示用户名「郭小靖」= 李恒逸本人小号
-- 飞书里出现「郭小靖」的会议/文档，所有者是李恒逸
-
-## 相关页面
-
-- [[people/henry-lee]]
-
-[Source: User, Telegram/OpenClaw Transcript, 2026-05-14]
+[Source: User, Telegram group topic 180, 2026-05-19]

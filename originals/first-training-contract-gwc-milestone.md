@@ -18,9 +18,9 @@ Henry 在确认 GWC 培训合同最终版时说：
 
 ## 背景
 
-- 客户：[[entities/companies/gwc|GWC]]
+- 客户：[[entities/companies/gwc-suzhou|GWC]]
 - 项目：2026-05-17 一整天 AI 培训（苏州吴中区繁丰路666号）
-- 意义：这是[[entities/companies/livis|李维斯智能科技工作室]]作为 OPC 开展培训业务以来签下的**第一份正式合同**
+- 意义：这是[[companies/hangzhou-fuyang-livis-intelligent-technology-studio|李维斯智能科技工作室]]作为 OPC 开展培训业务以来签下的**第一份正式合同**
 - 合同文件：李维斯-GWC-培训服务合同-20260517
 
 ## 合同要点

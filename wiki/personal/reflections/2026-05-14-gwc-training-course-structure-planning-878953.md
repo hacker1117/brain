@@ -15,8 +15,8 @@ tags:
 
 # GWC培训课程结构规划：上午理论+下午实操的分层设计，以及低学历制造业受众的工具选择难题
 
-> 来源：2026-05-14 OpenClaw Telegram session（GWC培训项目 Topic #86）  
-> 客户：[[entities/gwc|固丝德夫沃夫钢绳(苏州)有限公司]] — 电梯钢绳生产外资企业  
+> 来源：2026-05-14 OpenClaw Telegram session（GWC培训项目 Topic #86）
+> 客户：[[entities/companies/gwc-suzhou|固丝德夫沃夫钢绳(苏州)有限公司]] — 电梯钢绳生产外资企业
 > 培训日期：2026-05-17
 
 ---
@@ -123,7 +123,7 @@ Henry 对 AI 的最终建议也提出了明确要求：
 
 ## 关联
 
-- 客户主页：[[entities/gwc]]
+- 客户主页：[[entities/companies/gwc-suzhou]]
 - 合作讲师：[[entities/people/yan-jianqin-helen]]
 - 训练设计原则：[[wiki/originals/ideas/2026-05-11-ai-training-design-for-low-digitalization-factories-044aed]]
 - 语音知识库原型需求来源：[[wiki/originals/ideas/2026-05-11-voice-first-data-capture-as-repair-knowledge-infrastructure-8f14f4]]

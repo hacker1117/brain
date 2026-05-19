@@ -52,7 +52,7 @@ tags:
 ## 应用场景
 
 - [[companies/魔方咨询|魔方咨询]] 516沙龙：向魔方展现 AI 方向和培训交付方向的能力
-- [[entities/livis-studio|李维斯智能科技工作室]] 与其他 HR/咨询机构的第一次联合活动
+- [[companies/hangzhou-fuyang-livis-intelligent-technology-studio|李维斯智能科技工作室]] 与其他 HR/咨询机构的第一次联合活动
 - 任何「外部讲师 + 渠道主办方」结构的知识型活动
 
 ---
